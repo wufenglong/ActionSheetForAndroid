@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionsheet_title_txt_size">16dp</dimen>
+    <dimen name="actionsheet_content_txt_size">18dp</dimen>
+    <dimen name="actionsheet_content_padding">22dp</dimen>
+    <dimen name="actionsheet_content_divider">0.5dp</dimen>
+    <dimen name="actionsheet_cancel_button_margin_top">0.5dp</dimen>
+</resources>
